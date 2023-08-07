@@ -2,7 +2,7 @@
 Computer vision project
 
 This is an object detection model that detects incoming traffic on a highway in a video. 
-It furthur counts the number of vehicles and displays it on the video in real-time. 
+It further counts the number of vehicles and displays it on the video in real-time. 
 
 This project uses YOLOv8 model through ultralytics, and uses pretrained weights. 
 
